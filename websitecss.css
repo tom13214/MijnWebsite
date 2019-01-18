@@ -1,0 +1,46 @@
+h1 {
+  	 color: lightgray;
+		 text-align: center;
+		 text-decoration: underline;
+		 font-size: 35pt;
+}
+
+a {
+	 	 text-align: center;
+		 font-size: 20pt;
+		 
+}
+
+
+body {
+		 background-image:
+		 url('prism.png');
+		 
+}
+
+body {
+		 font-family: Arial;
+		 text-align: center;
+		 color: lightgray;
+		 
+}
+
+#ab a{
+
+		 font-size: 10pt;
+		 color: lichtgray;
+}
+#ab p{
+
+		 font-size: 10pt;
+		 text-align: center;
+		 color: lightgray;
+}
+#ab a
+{
+ 		color: lightgray;
+}
+#ab a:visited
+{
+ 		color: lightgray;
+}
